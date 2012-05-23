@@ -1,11 +1,11 @@
 {
   "author": "Joshua Holbrook <josh.holbrook@gmail.com> (http://jesusabdullah.net)",
   "name": "linspace",
-  "description": "MATLAB-inspired number-generating functions (linspace, logspace)",
-  "version": "0.0.0",
-  "homepage": "https://github.com/jesusabdullah/node-integers",
+  "description": "An implementation of MATLAB's linspace",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jesusabdullah/node-linspace",
   "repository": {
-    "url": "git@github.com:jesusabdullah/node-integers.git"
+    "url": "git@github.com:jesusabdullah/node-linspace.git"
   },
   "main": "./index.js",
   "dependencies": {
@@ -16,7 +16,6 @@
   },
   "keywords": [
     "linspace",
-    "logspace",
     "matlab"
   ]
 }
