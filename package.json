@@ -17,5 +17,6 @@
   "keywords": [
     "linspace",
     "matlab"
-  ]
+  ],
+  "license": "MIT"
 }
